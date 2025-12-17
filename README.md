@@ -1,3 +1,3 @@
-# money_tracker
+# Money Tracker
 
-A new Flutter project.
+An application that helps you to get control over your money.
